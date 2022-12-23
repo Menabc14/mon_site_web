@@ -3,5 +3,6 @@ tmp/todo.txt
 .cs
 *.txt
 tmp/*
+.mdc
 .xml
 
