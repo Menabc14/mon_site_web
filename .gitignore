@@ -3,5 +3,5 @@ tmp/todo.txt
 .cs
 *.txt
 tmp/*
-
+.xml
 
